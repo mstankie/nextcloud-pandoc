@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<info xmlns:xsi= "http://www.w3.org/2001/XMLSchema-instance"
+      xsi:noNamespaceSchemaLocation="https://apps.nextcloud.com/schema/apps/info.xsd">
+    <id>pandoc</id>
+    <name>Pandoc</name>
+    <summary>Converting text files using Pandoc</summary>
+    <description>
+        Converting text files using Pandoc
+        Select any destination format handled by Pandoc.
+    </description>
+    <screenshot>https://raw.githubusercontent.com/westberliner/owncloud-checksum/master/screenshots/checksum.gif</screenshot>
+    <documentation>
+        <user>https://github.com/westberliner/owncloud-checksum/blob/master/README.md</user>
+        <admin>https://github.com/westberliner/owncloud-checksum/blob/master/README.md</admin>
+    </documentation>
+    <version>0.4.0</version>
+    <licence>agpl</licence>
+    <author>westberliner</author>
+    <types>
+      <filesystem/>
+    </types>
+    <category>files</category>
+    <category>tools</category>
+    <website>https://github.com/westberliner/owncloud-checksum/</website>
+    <bugs>https://github.com/westberliner/owncloud-checksum/issues</bugs>
+    <dependencies>
+        <nextcloud min-version="13" max-version="13" />
+    </dependencies>
+</info>

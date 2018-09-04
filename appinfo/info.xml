@@ -8,21 +8,21 @@
         Converting text files using Pandoc
         Select any destination format handled by Pandoc.
     </description>
-    <screenshot>https://raw.githubusercontent.com/westberliner/owncloud-checksum/master/screenshots/checksum.gif</screenshot>
+    <screenshot>https://raw.githubusercontent.com/mstankie/nextcloud-pandoc/master/screenshots/pandoc.png</screenshot>
     <documentation>
-        <user>https://github.com/westberliner/owncloud-checksum/blob/master/README.md</user>
-        <admin>https://github.com/westberliner/owncloud-checksum/blob/master/README.md</admin>
+        <user>https://github.com/mstankie/nextcloud-pandoc/blob/master/README.md</user>
+        <admin>https://github.com/mstankie/nextcloud-pandoc/blob/master/README.md</admin>
     </documentation>
-    <version>0.4.0</version>
+    <version>0.1.0</version>
     <licence>agpl</licence>
-    <author>westberliner</author>
+    <author>mstankie</author>
     <types>
       <filesystem/>
     </types>
     <category>files</category>
     <category>tools</category>
-    <website>https://github.com/westberliner/owncloud-checksum/</website>
-    <bugs>https://github.com/westberliner/owncloud-checksum/issues</bugs>
+    <website>https://github.com/mstankie/nextcloud-pandoc/</website>
+    <bugs>https://github.com/mstankie/nextcloud-pandoc/issues</bugs>
     <dependencies>
         <nextcloud min-version="13" max-version="13" />
     </dependencies>

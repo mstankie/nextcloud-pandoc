@@ -1,8 +1,8 @@
-Pandoc
-======
+Nextcloud Pandoc plugin
+=======================
 
 **Plugin for [Nextcloud](https://nextcloud.com) to convert between text/office formats using [Pandoc](http://pandoc.org).**
-This plugin is actually a fork of "Checksum".
+It is a fork of [Checksum plugin for owncloud](https://github.com/westberliner/owncloud-checksum).
 
 ![screenshot](screenshots/pandoc.png)
 
